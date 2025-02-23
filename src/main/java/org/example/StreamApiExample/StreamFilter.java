@@ -4,6 +4,10 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class StreamFilter {
+
+    //Stream filter(Predicate predicate) provides a stream that contains the elements of
+    // this stream that satisfy the supplied predicate.
+    
     public static void main(String[] args) {
 
         List<String> memberNames = new ArrayList<>();
